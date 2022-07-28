@@ -1,2 +1,4 @@
-### Hi there 👋
-<a href="https://app.daily.dev/joshuatonga"><img src="https://raw.githubusercontent.com/hellojoshuatonga/hellojoshuatonga/devcard/assets/devcard.svg" width="400" alt="Joshua Tonga's Dev Card"/></a>
+# Hi there 👋
+<a href="https://app.daily.dev/joshuatonga"><img src="https://raw.githubusercontent.com/hellojoshuatonga/hellojoshuatonga/devcard/assets/devcard.svg" width="256" align="right" alt="Joshua Tonga's Dev Card"/></a>
+<!--![Metrics](https://metrics.lecoq.io/hellojoshuatonga?template=classic&isocalendar=1&languages=1&achievements=1&lines=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.ignored=groff&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FManila)-->
+![Metrics](https://raw.githubusercontent.com/hellojoshuatonga/hellojoshuatonga/github-metrics/metrics.svg)
