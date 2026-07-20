@@ -22,7 +22,9 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Manila
-          plugin_achievements: yes
+          # Disabled: achievements plugin errors out due to GitHub's Projects
+          # (classic) API sunset — see https://github.com/lowlighter/metrics/issues/1706
+          plugin_achievements: no
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
